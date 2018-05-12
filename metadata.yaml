@@ -23,6 +23,8 @@ creator:
     gutenberg_agent_id: '40578'
     url: http://www.gutenberg.org/2009/agents/40578
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/40939#Under-Cover
 gutenberg_issued: '2012-10-05'
 gutenberg_type: Text
 identifiers:
