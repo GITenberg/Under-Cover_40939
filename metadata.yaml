@@ -1,0 +1,39 @@
+_repo: Under-Cover_40939
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Kirkpatrick, William Arber-Brown
+    alias: Kirkpatrick, W. (William Arber-Brown)
+    birthdate: 1880
+    gutenberg_agent_id: '37332'
+    url: http://www.gutenberg.org/2009/agents/37332
+covers:
+- cover_type: archival
+  image_path: 40939-h/images/cover.jpg
+creator:
+  authors:
+  - agent_name: Megrue, Roi Cooper
+    alias: Megrue, Roy Cooper
+    birthdate: 1883
+    deathdate: 1927
+    gutenberg_agent_id: '40907'
+    url: http://www.gutenberg.org/2009/agents/40907
+  - agent_name: Martyn, Wyndham
+    birthdate: 1875
+    gutenberg_agent_id: '40578'
+    url: http://www.gutenberg.org/2009/agents/40578
+description: ''
+gutenberg_issued: '2012-10-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40939'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Mystery fiction'
+- !lcc 'PR'
+- !lcsh 'Smuggling -- Fiction'
+title: Under Cover
+url: http://www.gutenberg.org/ebooks/40939
